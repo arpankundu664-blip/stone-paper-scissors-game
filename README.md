@@ -8,7 +8,7 @@ The game allows a user to play against the computer through a clean and user-fri
 
 Play the game online:
 
-https://arpan-stone-paper-game.streamlit.app
+https://stone-paper-sciapprs-game-dkvdxueqbiwudp7qgy74aq.streamlit.app/
 
 ## ✨ Features
 
